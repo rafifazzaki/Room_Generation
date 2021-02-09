@@ -58,15 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-Library/
-Logs/
-obj/
-Packages/
-Temp/
+/Library/
+/Logs/
+/obj/
+/Packages/
+/Temp/
 
 *.csproj
 
-Assets/Ludiq/
-Assets/Ludiq.Generated/
-Assets/PolgonPrototype/
-Assets/tripolygon/
+/Assets/Ludiq/
+/Assets/Ludiq.Generated/
+/Assets/PolgonPrototype/
+/Assets/tripolygon/
