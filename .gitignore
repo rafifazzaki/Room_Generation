@@ -58,15 +58,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-dir_to_ignore/Library/
-dir_to_ignore/Logs/
-dir_to_ignore/obj/
-dir_to_ignore/Packages/
-dir_to_ignore/Temp/
+Library/
+Logs/
+obj/
+Packages/
+Temp/
 
 *.csproj
 
-dir_to_ignore/Ludiq/
-dir_to_ignore/Ludiq.Generated/
-dir_to_ignore/PolgonPrototype/
-dir_to_ignore/tripolygon/
+Assets/Ludiq/
+Assets/Ludiq.Generated/
+Assets/PolgonPrototype/
+Assets/tripolygon/
